@@ -1,0 +1,1 @@
+draw_graph(g,str(d)+"-"+str(probE)+"-"+str(seed),manu_var_num=manu)
