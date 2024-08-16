@@ -2,6 +2,8 @@
 
 The code and appendix for the paper "High-Dimensional Causal Bayesian Optimization" published in ECAI 2024. The appendix is in the `appendix.pdf`, which is contained in `paper` folder.
 
+The appendix will be uploaded soon.
+
 ## Preparations
 
 ### Environment Preparation
