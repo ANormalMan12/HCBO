@@ -79,4 +79,13 @@ Please refer to `result_analysis_baseline.ipynb` to visualize and conduct t-test
 
 Please refer to `result_analysis_others.ipynb` to visualize the result of ablation study and hyper-parameter experiments.
 
-
+## Citations
+```
+@inproceedings{wuwang2024hcbo,
+ author = {Yupeng Wu and Weiye Wang and Yangwenhui Zhang and Mingjia Li and Yuanhao Liu and Hong Qian and Aimin Zhou},
+ booktitle = {Proceedings of the 27th European Conference on Artificial Intelligence (ECAI)},
+ title = {High-Dimensional Causal Bayesian Optimization},
+ year = {2024},
+ address = {Santiago de Compostela, Spain}
+}
+```
